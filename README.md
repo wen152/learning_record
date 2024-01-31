@@ -9,3 +9,13 @@
 [c++ 初学记录](https://note.youdao.com/web/#/file/SVR0C745B39EA2D43A9B060078FB584C146)\
 [c++ primer笔记](https://note.youdao.com/web/#/file/WEB7fffcba1df47067bb4ef1f459f5be92c)
 ### 数据结构与算法
+[数据结构与算法 c语言描述 笔记与源码](https://www.cnblogs.com/zhuli19901106/p/data-structure-and-algorithm-analysis-in-C.html)
+#### 剑指offer笔记
+[全书笔记](https://zhuanlan.zhihu.com/p/457748029)\
+[阿秀笔记](https://interviewguide.cn/notes/03-hunting_job/03-algorithm/02-sword-offer/01-introduce.html)\
+[剑指offer pdf](F:\pdf资料\剑指 Offer\剑指 Offer)\
+
+#### Leetcode刷题
+[Modern C++ Solutions of All 3022 LeetCode Problems](https://github.com/kamyu104/LeetCode-Solutions?tab=readme-ov-file)\
+[阿秀笔记](https://interviewguide.cn/notes/03-hunting_job/03-algorithm/03-leetcode/01-introduce.html)\
+[leetcode刷题笔记 pdf](F:\pdf资料\谷歌大佬总结的Leetcode刷题笔记，支持Java、C++、Go三种语言\谷歌大佬总结的Leetcode刷题笔记，支持Java、C++、Go三种语言)
