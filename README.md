@@ -9,7 +9,7 @@
 [c++ 初学记录](https://note.youdao.com/web/#/file/SVR0C745B39EA2D43A9B060078FB584C146)\
 [c++ primer笔记](https://note.youdao.com/web/#/file/WEB7fffcba1df47067bb4ef1f459f5be92c)
 ### 数据结构与算法
-[数据结构与算法 c语言描述 笔记与源码](https://www.cnblogs.com/zhuli19901106/p/data-structure-and-algorithm-analysis-in-C.html)
+[数据结构与算法 c语言描述 笔记与源码](https://www.cnblogs.com/zhuli19901106/p/data-structure-and-algorithm-analysis-in-C.html)\
 [数据结构与算法教程](https://www.dotcpp.com/course/ds/)
 #### 剑指offer笔记
 [全书笔记](https://zhuanlan.zhihu.com/p/457748029)\
